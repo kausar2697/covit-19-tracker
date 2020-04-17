@@ -1,6 +1,10 @@
 {
   "name": "coronaapp",
   "version": "0.1.0",
+  "engines": {
+    "node": "12.16.1",
+    "npm": "6.13.4"
+  },
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.9.10",
@@ -44,9 +48,6 @@
     "eslint-plugin-jsx-a11y": "^6.2.3",
     "eslint-plugin-react": "^7.19.0",
     "eslint-plugin-react-hooks": "^2.5.1"
-  },
-  "engines": {
-    "node":"v12.16.1"
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
