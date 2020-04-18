@@ -9,10 +9,6 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
   if (!confirmed) {
     return 'Loading...';
   }
-   var newAdd=[];
-   newAdd.push(confirmed.value);
-   var lastIndex=newAdd.length
-   console.log(newAdd)
   return (
      
     <div className={styles.container}>
@@ -24,9 +20,6 @@ const Info = ({ data: { confirmed, recovered, deaths, lastUpdate } }) => {
             </Typography>
             <Typography variant="h5" component="h2">
               <CountUp start={0} end={confirmed.value} duration={2.75} separator="," />
-            </Typography>
-            <Typography variant="h5" component="h2">
-              <CountUp start={0} end={(newAdd[lastIndex-1])-(newAdd[lastIndex-2])} duration={2.75} separator="," />
             </Typography>
             <Typography color="textSecondary">
               {new Date(lastUpdate).toDateString()}
