@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/covit-19-tracker/static/css/main.400bab8c.chunk.css",
-    "main.js": "/covit-19-tracker/static/js/main.87dddf89.chunk.js",
-    "main.js.map": "/covit-19-tracker/static/js/main.87dddf89.chunk.js.map",
+    "main.js": "/covit-19-tracker/static/js/main.dae192e7.chunk.js",
+    "main.js.map": "/covit-19-tracker/static/js/main.dae192e7.chunk.js.map",
     "runtime-main.js": "/covit-19-tracker/static/js/runtime-main.269d0763.js",
     "runtime-main.js.map": "/covit-19-tracker/static/js/runtime-main.269d0763.js.map",
     "static/js/2.7860088c.chunk.js": "/covit-19-tracker/static/js/2.7860088c.chunk.js",
     "static/js/2.7860088c.chunk.js.map": "/covit-19-tracker/static/js/2.7860088c.chunk.js.map",
     "index.html": "/covit-19-tracker/index.html",
-    "precache-manifest.c9dbcc1bd6d70bb7a7dea35f36a6501f.js": "/covit-19-tracker/precache-manifest.c9dbcc1bd6d70bb7a7dea35f36a6501f.js",
+    "precache-manifest.fb9aacf3c94aeae40d9696e9a9132b84.js": "/covit-19-tracker/precache-manifest.fb9aacf3c94aeae40d9696e9a9132b84.js",
     "service-worker.js": "/covit-19-tracker/service-worker.js",
     "static/css/main.400bab8c.chunk.css.map": "/covit-19-tracker/static/css/main.400bab8c.chunk.css.map",
     "static/js/2.7860088c.chunk.js.LICENSE.txt": "/covit-19-tracker/static/js/2.7860088c.chunk.js.LICENSE.txt",
@@ -18,6 +18,6 @@
     "static/js/runtime-main.269d0763.js",
     "static/js/2.7860088c.chunk.js",
     "static/css/main.400bab8c.chunk.css",
-    "static/js/main.87dddf89.chunk.js"
+    "static/js/main.dae192e7.chunk.js"
   ]
 }
